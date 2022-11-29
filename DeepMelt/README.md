@@ -1,10 +1,15 @@
 # DeepMelt
-DeepMelt is a use case for multi-mechanism scenarios in MDLM.
-
-- The main code name of our method is DeepMelt.py. For convenience, we combined the code such as training validation and testing into a single file, the code can be run directly. 
+This repository holds the code for our DeepMelt network for viscosity prediction, including all the code and data to generate all our experimental results.
 - The experimental data is in the data folder.
 - The baseline code is in the baseline folder.
 - The ablation code is in the ablation folder.
+
+You can directly run our code without any addition argument settings. For example, to run our DeepMelt network, simply use
+
+```python DeepMelt.py```
+
+All the required packages are in requirement.txt, which will be automatically installed upon execution of our code.
+
 
 Our implementation of DeepMelt is based on the original iMelt source code (https://github.com/charlesll/i-melt), under the MIT License.
 
