@@ -1,5 +1,5 @@
 # DeepWiener
-DeepMelt is a use case for single-mechanism scenarios in MDLM.
+DeepWiener is a use case for single-mechanism scenarios in MDLM.
 
 - The implementations of our model is in the `models` folder.
 - Some helper codes is in the `utils` folder.
