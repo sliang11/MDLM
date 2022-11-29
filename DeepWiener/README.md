@@ -5,7 +5,7 @@ DeepMelt is a use case for single-mechanism scenarios in MDLM.
 - Some helper codes is in the `utils` folder.
 - The experimental data (train/test already splitted) is in the `Datasets` folder.
 
-You can directly run our code without any addition argument settings. For example, to run our DeepMelt network, simply use
+ You can directly run our code without any addition argument settings. For example, to run our Wiener network, simply use
 
 `python experiment.py`
 
